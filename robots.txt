@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://kartiksharma003.github.io/Girvana-tour-and-travels/sitemap.xml
+Sitemap: https://kartiksharma003.github.io/Girvana-tour-and-travels-/sitemap.xml
